@@ -1,0 +1,15 @@
+site_name: LTX-2
+site_url: https://ltx.pages.dev
+repo_url: https://github.com/missmia1437-max/ltx
+docs_dir: packages/ltx-trainer/docs
+theme:
+  name: material
+nav:
+  - Home: quick-start.md
+  - Guides:
+      - Training Guide: training-guide.md
+      - Dataset Preparation: dataset-preparation.md
+      - Training Modes: training-modes.md
+      - Configuration Reference: configuration-reference.md
+      - Troubleshooting: troubleshooting.md
+      - Utility Scripts: utility-scripts.md
