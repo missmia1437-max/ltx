@@ -1,9 +1,13 @@
 site_name: LTX-2
 site_url: https://ltx.pages.dev
 repo_url: https://github.com/missmia1437-max/ltx
+
 docs_dir: packages/ltx-trainer/docs
+site_dir: site   # 👈 IMPORTANT (explicit)
+
 theme:
   name: material
+
 nav:
   - Home: quick-start.md
   - Guides:
